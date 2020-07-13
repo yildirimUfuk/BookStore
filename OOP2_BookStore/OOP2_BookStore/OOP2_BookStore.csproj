@@ -335,5 +335,8 @@
   <ItemGroup>
     <Content Include="Resources\logo1.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="database\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
